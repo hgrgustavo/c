@@ -1,0 +1,1 @@
+. "/home/hgrgustavo/c/zero/build/conanrunenv-release-x86_64.sh"

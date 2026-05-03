@@ -1,0 +1,1 @@
+/usr/sbin/cc -m64 -O3 -DNDEBUG -m64 -Wl,--dependency-file=CMakeFiles/unit_test.dir/link.d CMakeFiles/unit_test.dir/test/test_main.c.o -o unit_test   -L/home/hgrgustavo/.conan2/p/b/unitye6e4bc2993949/p/lib  -Wl,-rpath,/home/hgrgustavo/.conan2/p/b/unitye6e4bc2993949/p/lib /home/hgrgustavo/.conan2/p/b/unitye6e4bc2993949/p/lib/libunity.a
